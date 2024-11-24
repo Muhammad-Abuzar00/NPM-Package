@@ -1,0 +1,25 @@
+{
+    "name": "string-helper-tools",
+    "version": "1.0.0",
+    "description": "A package with simple string utilities. Reverse strings, capitalize words, count vowels, check for palindromes, and find the most frequent character.",
+    "main": "index.js",
+    "scripts": {
+      "test": "node test.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Muhammad-Abuzar00/NPM-Package.git"
+    },
+    "keywords": [
+      "string-helper",
+      "utilities"
+      
+    ],
+    "author": "Muhammad Abuzar",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Muhammad-Abuzar00/NPM-Package/issues"
+    },
+    "homepage": "https://github.com/Muhammad-Abuzar00/NPM-Package#readme"
+  }
+  

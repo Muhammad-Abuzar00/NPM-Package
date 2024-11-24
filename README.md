@@ -1,1 +1,1 @@
-# NPM-Package
+A package with simple string utilities. Reverse strings, capitalize words, count vowels, check for palindromes, and find the most frequent character.
